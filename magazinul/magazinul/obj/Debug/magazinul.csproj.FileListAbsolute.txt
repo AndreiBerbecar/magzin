@@ -1,0 +1,10 @@
+E:\Berbecar Andrei\C#\magazinul\magazinul\bin\Debug\magazinul.exe.config
+E:\Berbecar Andrei\C#\magazinul\magazinul\bin\Debug\magazinul.exe
+E:\Berbecar Andrei\C#\magazinul\magazinul\bin\Debug\magazinul.pdb
+E:\Berbecar Andrei\C#\magazinul\magazinul\obj\Debug\magazinul.csprojAssemblyReference.cache
+E:\Berbecar Andrei\C#\magazinul\magazinul\obj\Debug\magazinul.Form1.resources
+E:\Berbecar Andrei\C#\magazinul\magazinul\obj\Debug\magazinul.Properties.Resources.resources
+E:\Berbecar Andrei\C#\magazinul\magazinul\obj\Debug\magazinul.csproj.GenerateResource.cache
+E:\Berbecar Andrei\C#\magazinul\magazinul\obj\Debug\magazinul.csproj.CoreCompileInputs.cache
+E:\Berbecar Andrei\C#\magazinul\magazinul\obj\Debug\magazinul.exe
+E:\Berbecar Andrei\C#\magazinul\magazinul\obj\Debug\magazinul.pdb
